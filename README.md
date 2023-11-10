@@ -9,7 +9,8 @@
   <div>
     <h1 font-size=40px align="center">
       Hello everyone!🫶
+      <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="400"/>
     </h1>
-      <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100"/>
+      
   </div>
 </div>
