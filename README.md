@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </div>
   <div>
-    <h1 font-size=40px>
+    <h1 font-size=40px align="center">
       🫡Hello everyone!
     </h1>
   </div>
